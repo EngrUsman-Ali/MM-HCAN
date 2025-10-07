@@ -2,14 +2,7 @@
 
 > ### ✨ Authors
 > 
-> - [**Usman Ali**](https://scholar.google.com/citations?user=2A32xVQAAAAJ&hl=en)  
-> - [**Ali Zia**](https://ali-zia.me/)  
-> - [**Waqas Ali**](https://scholar.google.com/citations?user=J8_Ko78AAAAJ&hl=en)  
-> - [**Umer Ramzan**](https://scholar.google.com/citations?user=D3AhoccAAAAJ&hl=en)  
-> - [**Abdul Rehman**](https://scholar.google.com.pk/citations?user=A_jBBxIAAAAJ&hl=en)  
-> - [**Muhammad Tayyab Chaudhry**](https://scholar.google.com/citations?user=-mECuFEAAAAJ&hl=en)  
-> - [**Wei Xiang**](https://scholar.google.com/citations?user=VxQUr90AAAAJ&hl=en)  
-
+> [**Usman Ali**](https://scholar.google.com/citations?user=2A32xVQAAAAJ&hl=en) • [**Ali Zia**](https://ali-zia.me/) • [**Waqas Ali**](https://scholar.google.com/citations?user=J8_Ko78AAAAJ&hl=en) • [**Umer Ramzan**](https://scholar.google.com/citations?user=D3AhoccAAAAJ&hl=en) • [**Abdul Rehman**](https://scholar.google.com.pk/citations?user=A_jBBxIAAAAJ&hl=en) • [**Muhammad Tayyab Chaudhry**](https://scholar.google.com/citations?user=-mECuFEAAAAJ&hl=en) • [**Wei Xiang**](https://scholar.google.com/citations?user=VxQUr90AAAAJ&hl=en)
 
 ## 🧠 Overview
 
